@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I've been learning Node.js React
+Studying Software Engineering 3rd Year at Mae Fah Luang University.
 
 ### Skills
 
